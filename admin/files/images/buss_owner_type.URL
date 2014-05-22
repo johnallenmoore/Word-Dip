@@ -1,0 +1,2 @@
+[InternetShortcut]
+URL=http://192.168.1.17/phpmyadmin/sql.php?db=ict_amogam&table=ict_owner_user&sql_query=SELECT+%2A+FROM+%60ict_owner_user%60+ORDER+BY+%60ict_owner_user%60.%60buss_owner_type%60+ASC&token=42e834fca69cb77203bfe6810c8fe034

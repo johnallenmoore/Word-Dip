@@ -1,0 +1,401 @@
+/* CSS Document */
+body{
+	background:#CCCCCC;
+	margin:0;
+}
+.over_all{
+	width:980px;
+	margin:0 auto;
+}
+.body_content{
+	float:left;
+	margin:0 0 0 0;
+	width:980px;
+	height:627px;
+	background:#ffffff;
+}
+
+.top_create_txt{
+	float:left;
+	margin:0 0 0 0;
+}
+.top_create_txt a{
+	float:left;
+	margin:20px 0 0 170px;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:15px;
+	text-decoration:none;
+	color:#0099FF;
+	font-weight:bold;
+}
+
+.top_create_txt_login{
+	margin:0 0 0 270px;
+	float:left;
+	width:470px;
+}
+.top_create_txt_login h2{
+	float:left;
+	margin:20px 0 0 0;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:24px;
+	text-decoration:none;
+	color:#000000;
+}
+
+.top_create_txt p{
+	float:left;
+	margin:10px 0 0 10px;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:24px;
+	text-decoration:none;
+	color:#000000;
+}
+.top_create_txt h2{
+	float:left;
+	margin:10px 0 0 10px;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:24px;
+	text-decoration:none;
+	color:#000000;
+}
+.create_border{
+	float:left;
+	margin:10px 0 0 0;
+	border-bottom:dotted #CCCCCC;
+	width:490px;
+}
+.user_reegis_details_cov{
+	margin:0 0 0 0;
+	float:left;
+}
+
+.user_left_part{
+	width:500px;
+	float:left;
+	margin:0 0 0 10px;
+}
+.home_cen_part{
+	width:500px;
+	margin:20px auto;
+	background:#00CC33;
+	text-align:center;
+}
+.reg_field_txt{
+	margin:0 0 0 0;
+}
+.reg_field_txt a{
+	margin:0 0 0 0;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:14px;
+	text-decoration:none;
+	color:#0099FF;
+}
+.reg_field_txt12{
+	margin:0 0 0 0;
+}
+.reg_field_txt12 a{
+	margin:0 0 0 0;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:30px;
+	text-decoration:none;
+	color:#000000;
+}
+.reg_field_txt123{
+	margin:0 0 0 0;
+}
+.reg_field_txt123 a{
+	margin:0 0 0 0;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:30px;
+	text-decoration:none;
+	color:#0099FF;
+}
+.reg_field_txt span{
+	margin:0 0 0 2px;
+	color:#FF0000;
+}
+.reg_field_input input{
+	background:#0099FF;
+	color:#FFFFFF;
+	width:330px;
+	height:22px;
+	border:#999999 1px solid;
+}
+.login_field_input input{
+	background:#0099FF;
+	color:#FFFFFF;
+	width:310px;
+	height:22px;
+	border:#999999 1px solid;
+}
+.user_regis{
+	float:left;
+	margin:10px 0 0 -8px;
+	background:url(../files/images/user_pay_button.png) no-repeat;
+	width:524px;
+	height:75px;
+	border:none;
+	cursor:pointer;
+}
+.dollar{
+	margin:0 0 0 0;
+}
+.dollar a{
+	margin:20px 0 0 40px;
+	float:left;
+	font-family:Arial, Helvetica, sans-serif;
+	color:#999999;
+	font-size:38px;
+	font-weight:bold;
+}
+.user_login{
+	float:left;
+	margin:10px 0 0 0;
+	background:url(../files/images/login.jpg) no-repeat;
+	width:473px;
+	height:45px;
+	cursor:pointer;
+}
+.user_line{
+	float:left;
+	margin:5px 0 10px 0;
+	width:470px;
+	border-bottom:1px dotted #666666;
+}
+.most_rece_txt a{
+	float:left;
+	margin:0 0 0 0;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:20px;
+	color:#0099FF;
+	font-weight:normal;
+}
+.logout_part{
+	float:left;
+	margin:0 0 0 0;
+	background:#CCFF00;
+	width:300px;
+	height:30px;
+}
+.welcome_txt_cov{
+	float:left;
+	margin:0 0 20px 0;
+	width:475px;
+}
+.welcome_txt{
+	float:left;
+	margin:0 0 0 0;
+	width:237px;
+}
+
+.welcome_txt a{
+	margin:0 0 0 0;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:30px;
+	text-decoration:none;
+	color:#000000;
+}
+.username_txt{
+	float:left;
+	margin:0 0 0 0;
+	width:200px;
+}
+
+.username_txt a{
+	margin:0 0 0 0;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:30px;
+	text-decoration:none;
+	color:#0099FF;
+}
+.most_recent{
+	float:left;
+	margin:0 0 0 0;
+	width:500px;
+}
+.most_recent a{
+	float:left;
+	margin:0 0 0 0;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:20px;
+	color:#0099FF;
+	font-weight:normal;
+	text-decoration:none;
+}
+.most_recent a:hover{
+	float:left;
+	margin:0 0 0 0;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:20px;
+	color:#00000;
+	font-weight:normal;
+	text-decoration:none;
+}
+.log_out{
+	float:left;
+	margin:20px 0 30px 0;
+	width:500px;
+}	
+.log_out img{
+	float:left;
+	margin:0 0 0 0;
+}	
+.log_out a{
+	float:left;
+	margin:0 0 0 0;
+}	
+.slider_part_cov{
+	float:left;
+	margin:0 0 0 0;
+}
+.slider_cov{
+	float:left;
+	margin:0 0 0 0;
+	width:100%;
+	height:100%;
+}
+
+.span_img{
+	float:left;
+	margin:0 0 0 0;
+	position:absolute;
+}
+
+.span_img p{
+	float:left;
+	margin:0 0 0 0;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	font-weight:bold;
+}
+#thumbs_up_out{
+	width:220px;
+	height:30px;
+	margin:440px 0 0 560px;
+	position:absolute;
+}
+#thumbs_up_out_1{
+	width:30px;
+	height:30px;
+	position:absolute;
+	margin:440px 0 0 560px;
+}
+.post_btn{
+	float:left;
+	margin:20px 0 10px 0;
+}
+.post_btn a{
+	float:left;
+	margin:0 0 0 0;
+}
+.post_btn img{
+	float:left;
+	margin:0 0 0 0;
+}
+.inpu_boxes{
+	float:left;
+	margin:0 0 0 0;
+	width:490px;
+}
+.input_value_box_cov{
+	float:left;
+	margin:0 0 0 0;
+}
+.con_sub{
+	float:left;
+	margin:0 0 0 0;
+	background:url(../files/images/post_btn.jpg) no-repeat;
+	width:473px;
+	height:45px;
+	border:none;
+}
+
+.browse_btn_cov{
+	float:left;
+	margin:10px 0 10px 0;
+}
+
+.browse_btn_cov img{
+	float:left;
+	margin:0 0 0 0;
+}
+.home_btn{
+	float:left;
+	margin:-58px 0 0 580px;
+	background:#6dcfff;
+	width:200px;
+	height:54px;
+	position:absolute;
+	border-radius:10px 10px 0 0;
+	opacity:0.30;
+}
+.home_txt{
+	float:left;	
+	margin:-40px 0 0 640px;
+	position:absolute;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:22px;
+	color:#FFFFFF;
+	font-weight:normal;
+	text-decoration:none;
+	width:70px;
+	text-align:center;
+}
+
+.home_btn1{
+	float:left;
+	margin:310px 0 0 280px;
+	background:#6dcfff;
+	width:200px;
+	height:54px;
+	position:absolute;
+	border-radius:10px 10px 0 0;
+	opacity:0.30;
+}
+.home_txt1{
+	float:left;	
+	margin:316px 0 0 -412px;
+	position:absolute;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:22px;
+	color:#FFFFFF;
+	font-weight:normal;
+	text-decoration:none;
+	width:70px;
+	text-align:center;
+}
+
+.home_btn2{
+	float:left;
+	margin:300px 0 0 275px;
+	background:#6dcfff;
+	width:200px;
+	height:54px;
+	position:absolute;
+	border-radius:10px 10px 0 0;
+	opacity:0.30;
+}
+.home_txt2{
+	float:left;	
+	margin:310px 0 0 -375px;
+	position:absolute;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:22px;
+	color:#FFFFFF;
+	font-weight:normal;
+	text-decoration:none;
+	width:70px;
+	text-align:center;
+}
+.index_cen_cov{
+	float:left;
+	margin:10px 0 0 200px;
+	background:#009933;
+	width:530px;
+}
+.cent_part_cov{
+	margin:0 auto;	
+	background:#009900;
+	width:530px;
+}

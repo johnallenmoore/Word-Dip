@@ -1,0 +1,1215 @@
+body{
+	margin:0;
+}
+.top_2{
+	float:left;
+	margin:0 0 0 0;
+	height:49px;
+	width:937px;
+/*	background:	url(../files/new_img/top2.jpg) no-repeat;*/
+}
+.save1{
+	position:absolute;
+
+}
+.bran1{
+	border-right:solid 2px #f47a25;
+	width:364px;
+	height:47px;
+}
+
+.br1{
+	float:left;
+	margin:10px 0 0 30px;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:17px;
+	font-weight:bold;
+	border:none;
+}
+
+.bran2{
+	border-right:solid 2px #f47a25;
+	width:334px;
+	height:47px;
+}
+
+.br2{
+	border:none;	
+	float:left;
+	margin:10px 0 0 30px;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:17px;
+	font-weight:bold;
+}
+
+.valli_new_5{
+	width:99px;
+	height:47px;
+	border-right:2px solid #f47a25;
+
+}
+
+.valli_new_check_box{
+	margin:5px 0 0 35px;
+	float:left;
+	border:2px solid #f47a25;
+	width:35px;
+	height:35px;
+}
+
+.valli_new_check_box input{
+	margin:0 0 0 0;
+	float:left;
+	width:35px;
+	height:35px;
+	border:none;
+	background:none;
+}
+
+.valli_new_1{
+	width:100px;
+	height:47px;
+	/*border-left:2px solid #f47a25;*/
+}
+
+.valli_img_1{
+	margin:0 0 0 0;
+	height:40px;
+	width:370px;
+	border-bottom:2px solid #f47a25;
+}
+
+.valli_img_1 input{
+	margin:5px 0 0 5px;
+	float:left;
+	width:250px;
+	border:none;
+	background:none;
+}
+
+.valli_img_1 img{
+	margin:5px 0 0 5px;
+	float:left;
+}
+
+.valli_img_2{
+	height:40px;
+	margin:0 0 0 0;
+	border-bottom:2px solid #f47a25;
+}
+
+.valli_img_11{
+	height:40px;
+	margin:0 0 0 0;
+	border-bottom:2px solid #f47a25;
+}
+
+.valli_img_11 select{
+	margin:5px 0 0 5px;
+	float:left;
+	border:none;
+}
+
+.valli_img_11 .img119{
+	margin:10px 0 0 5px;
+	float:left;
+}
+
+.valli_img_11 .img112{
+	margin:5px 0 0 5px;
+	float:left;
+}
+
+.valli_img_11 img{
+	margin:5px 0 0 5px;
+	float:left;
+}
+
+.valli_img_11 input{
+	width:110px;	
+	margin:5px 0 0 5px;
+	float:left;
+	border:none;
+	background:none;
+}
+
+.valli_img_2 img{
+	margin:5px 0 0 0;
+	float:left;
+}
+
+.valli_img_2 input{
+	margin:5px 0 0 5px;
+	float:left;
+	width:190px;
+	border:none;
+	background:none;
+}
+
+.valli_img_3{
+	margin:0 0 0 0;
+	border-bottom:2px solid #f47a25;
+}
+
+.valli_img_3 img{
+	margin:5px 0 0 0;
+	float:left;
+}
+
+.valli_img_3 input{	
+	margin:5px 0 0 5px;
+	float:left;
+	border:none;
+	background:none;
+}
+
+.valli_img_first{
+	margin:0 0 0 5px;
+	float:left;
+	width:25px;
+	height:25px;
+	border:2px solid #f47a25;
+}
+
+.valli_img_first input{
+	margin:0 0 0 0;
+	float:left;
+	width:25px;
+	height:25px;
+	border:none;
+	background:none;
+}
+
+.valli_img_2 .img9{
+	margin:0 120px 0 0;
+	float:left;
+}
+
+.valli_img_2 .img10{
+	margin:5px 130px 0 0;
+	float:left;
+}
+
+.valli_img_6{
+	margin:0 0 0 0;
+}
+
+.valli_img_6 img{
+	margin:5px 0 0 5px;
+	float:left;
+}
+
+.valli_img_6 textarea{
+	margin:5px 0 0 5px;
+	float:left;
+	width:600px;
+	border:none;
+	background:none;
+}
+
+.valli_img_5{
+	margin:0 0 0 0;
+}
+
+.valli_img_5 img{
+	margin:30px 0 0 0;
+	float:left;
+}
+
+.valli_img_5 input{
+	margin:30px 0 5px 5px;
+	float:left;
+	width:100px;
+	border:none;
+	background:none;	
+}
+
+.valli_img_7{
+	margin:5px 0 0 0;
+	border-top:2px solid #f47a25;
+}
+
+.valli_img_7 img{
+	margin:5px 0 0 0;
+}
+
+.top_3{
+	margin:0 0 0 2px;
+	float:left;
+	width:76px;
+	height:67px;
+}
+			
+.top_3 input{
+	margin:10px 0 0 0;
+	float:left;
+	width:25px;
+	height:18px;
+	border:none;
+	
+}
+
+.top_3 .un_checked{
+	float:left;
+	margin:10px 0 0 0; 
+	width:26px;
+	height:19px;
+	border:none;
+	cursor:pointer;
+	outline: none;
+	background:none;
+}
+	
+.top_3 .checked{
+	float:left;
+	margin:5px 0 0 0; 
+	width:35px;
+	height:26px;
+	border:none;
+	cursor:pointer;
+	outline:none;
+	background:url(../files/checked_new2.png) no-repeat;
+}
+
+.top_4{ 
+	 margin:0 0 0 2px;
+	 float:left;
+	 width:76px;
+	 height:67px;
+}
+
+
+.top_4 .un_checked{
+	float:left;
+	margin:0 0 0 0; 
+	width:35px;
+	height:26px;
+	border:none;
+	cursor:pointer;
+	outline: none;
+	background:none;	
+}
+	
+.top_4 .checked{
+	float:left;
+	margin:5px 0 0 0; 
+	width:35px;
+	height:26px;
+	border:none;
+	cursor:pointer;
+	outline: none;
+	background:url(../files/checked_new2.png) no-repeat;
+}
+
+.top_5{ 
+	 margin:0 0 0 0;
+	 float:left;
+	 width:76px;
+	 height:67px;
+}
+
+
+.top_5 .un_checked{
+	float:left;
+	margin:0 0 0 0; 
+	width:26px;
+	height:19px;
+	border:none;
+	cursor:pointer;
+	outline: none;
+	background:none;	
+}
+	
+.top_5 .checked{
+	float:left;
+	margin:3px 0 0 0; 
+	width:25px;
+	height:18px;
+	border:none;
+	cursor:pointer;
+	outline: none;
+	background:url(../files/checked_top3_4.png) no-repeat;
+}
+
+.top_6{ 
+	 margin:0 0 0 0;
+	 float:left;
+	 width:76px;
+	 height:67px;
+}
+
+
+.top_6 .un_checked{
+	float:left;
+	margin:0 0 0 0; 
+	width:26px;
+	height:19px;
+	border:none;
+	cursor:pointer;
+	outline: none;
+	background:none;	
+}
+	
+.top_6 .checked{
+	float:left;
+	margin:4px 0 0 0; 
+	width:25px;
+	height:18px;
+	border:none;
+	cursor:pointer;
+	outline: none;
+	background:url(../files/checked_top3_4.png) no-repeat;
+}
+
+
+
+.valli_img_8{
+	margin:0 0 0 0;
+	border-bottom:2px solid #f47a25;
+}
+
+.valli_img_8 select{
+	margin:0 0 0 5px;
+	float:left;
+	border:none;
+	background:none;
+}
+
+
+.valli_img_8 img{
+	margin:0 0 0 0;
+	float:left;
+}
+
+.valli_img_10{
+	margin:0 0 0 0;
+	height:40px;
+	border-bottom:2px solid #f47a25;
+}
+
+.valli_img_10 img{
+	margin:0 0 0 5px;
+	float:left;
+}
+
+.valli_img_10 input{
+	margin:0 0 0 5px;
+	float:left;
+	width:610px;
+	border:none;
+	background:none;
+}
+
+.valli_img_111{
+	margin:0 0 0 0;
+	height:40px;
+	width:370px;
+	border-bottom:2px solid #f47a25;
+}
+
+.valli_img_111 input{
+	margin:5px 0 0 5px;
+	float:left;
+	width:760px;
+	border:none;
+	background:none;
+}
+
+.valli_img_111 img{
+	margin:5px 0 0 5px;
+	float:left;
+}
+
+.valli_img_113{
+	margin:0 0 0 0;
+	height:40px;
+	border-bottom:2px solid #f47a25;
+}
+
+.valli_img_113 img{
+	margin:0 0 0 5px;
+	float:left;
+}
+
+.valli_img_113 select{
+	margin:0 0 0 5px;
+	float:left;
+	border:none;
+	background:none;
+}
+
+.valli_img_17{
+	margin:0 0 0 0;
+	height:40px;
+	border-bottom:2px solid #f47a25;
+}
+
+.valli_img_17 img{
+	margin:2px 0 0 5px;
+	float:left;
+}
+
+.valli_img_17 input{
+	margin:0 0 0 5px;
+	float:left;
+	border:none;
+	background:none;
+}
+
+.valli_img_17 select{
+	margin:0 0 0 5px;
+	float:left;
+	border:none;
+	background:none;
+	font-size:17px;
+	font-family:Arial, Helvetica, sans-serif;
+	font-weight:bold;
+}
+
+.valli_img_17 select{
+	margin:0 0 0 5px;
+	float:left;
+	border:none;
+	background:none;
+}
+
+.valli_img_18{
+	margin:0 0 0 0;
+	border-bottom:2px solid #f47a25;
+}
+
+.valli_img_18 img{
+	margin:2px 0 0 5px;
+	float:left;
+}
+
+.valli_img_18 input{
+	margin:0 0 0 5px;
+	float:left;
+	border:none;
+	background:none;
+}
+
+.valli_img_18 select{
+	margin:0 0 0 5px;
+	float:left;
+	border:none;
+	background:none;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:17px;
+	font-weight:bold;
+
+}
+
+.valli_img_19{
+	margin:0 0 0 0;
+	border-bottom:2px solid #f47a25;
+}
+
+.valli_img_19 img{
+	margin:2px 0 0 5px;
+	float:left;
+}
+
+.valli_img_19 input{
+	margin:0 0 0 5px;
+	float:left;
+	border:none;
+	background:none;
+}
+
+.valli_img_19 select{
+	margin:0 0 0 5px;
+	float:left;
+	border:none;
+	background:none;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:17px;
+	font-weight:bold;
+}
+
+.valli_img_23{
+	margin:0 0 0 0;
+	height:40px;
+	border-bottom:2px solid #f47a25;
+}
+
+.valli_img_23 img{
+	margin:0 0 0 5px;
+	float:left;
+}
+
+.valli_img_23 input{
+	margin:0 0 0 5px;
+	float:left;
+	width:610px;
+	border:none;
+	background:none;	
+}
+
+.valli_img_23 select{
+	margin:0 0 0 5px;
+	float:left;
+	width:610px;
+	border:none;
+	background:none;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:17px;
+	font-weight:bold;	
+}
+
+.image20{
+	margin:0 0 0 5px;
+	float:left;
+	width:25px;
+	height:25px;
+	border:2px solid #f47a25;
+}
+
+.image20 input{
+	margin:0 0 0 0;
+	float:left;
+	width:25px;
+	height:25px;
+	border:none;
+	background:none;
+}
+
+.valli_img_28{
+	margin:5px 0 0 0;
+}
+
+.valli_img_28 img{
+	margin:5px 0 0 0;
+}
+
+.valli_img_29{
+	width:500px;
+	margin:0 0 0 0;
+	height:40px;
+}
+
+.valli_img_29 img{
+	margin:0 0 0 5px;
+	float:left;
+}
+
+.valli_img_29 input{
+	margin:0 0 0 5px;
+	float:left;
+	width:270px;
+	border:none;
+	background:none;
+}
+
+.valli_img_30{
+	margin:0 0 0 0;
+	width:400px;
+}
+
+.valli_img_30 img{
+	margin:0 0 0 0;
+	float:left;
+}
+
+.valli_img_30 input{
+	margin:0 0 0 5px;
+	float:left;
+	width:180px;
+	border:none;
+	background:none;
+}
+
+.valli_img_33{
+	margin:0 0 0 0;
+	border-top:2px solid #f47a25;
+	height:40px;
+}
+
+.valli_img_33 img{
+	margin:0 0 0 0;
+}
+
+.image35{
+	margin:0 0 0 0;
+	border-bottom:2px solid #f47a25;
+}
+
+.image35 img{
+	margin:0 0 0 0;
+	
+}
+
+.image34{
+	margin:0 0 0 0;
+	height:40px;
+	width:200px;
+	border-right:2px solid #f47a25;
+	border-bottom:2px solid #f47a25;
+}
+
+.image34 img{
+	margin:0 0 0 0;
+}
+
+.image36{
+	margin:0 0 0 0;
+	border-right:2px solid #f47a25;
+	height:40px;
+}
+
+.image36 img{
+	margin:0 0 0 0;
+}
+
+.image34 input{
+	margin:0 0 0 0;
+	float:left;
+	width:200px;
+	border:none;
+	background:none;
+}
+
+.image35 input{
+	margin:0 0 0 0;
+	float:left;
+	width:200px;
+	border:none;
+	background:none;
+}
+
+.image36 input{
+	margin:0 0 0 0;
+	float:left;
+	width:200px;
+	border:none;
+	background:none;
+}
+
+.image37 input{
+	margin:0 0 0 0;
+	float:left;
+	width:200px;
+	border:none;
+	background:none;
+}
+
+.image42{
+	margin:0 0 0 0;
+}
+
+.image42 img{
+	margin:0 0 10px 0;
+}
+
+.valli_image_2{
+	height:40px;
+	width:894px; 
+	margin:0 0 0 22px;
+	border-bottom:2px solid #f47a25;
+}
+
+.valli_image_2 img{
+	margin:0 0 0 0;
+	float:left;
+}
+
+.valli_image_3{
+	margin:0 0 0 0;
+	height:40px;
+}
+
+.valli_image_3 img{
+	margin:0 0 0 0;
+}
+
+.valli_image_3 textarea{
+	margin:0 0 0 0;
+	float:left;
+	border:none;
+	background:none;
+}
+
+.valli_image_4{
+	width:894px; 
+	margin:0 0 0 22px;
+	border-bottom:2px solid #f47a25;
+}
+.valli_image_4 textarea{
+	margin:0 0 10px 0;
+	float:left;
+	width:894px; 
+	border:none;
+	background:none;
+}
+
+.valli_image_5{
+	margin:0 0 0 0;
+	border-bottom:2px solid #000000;
+}
+
+.valli_image_6{
+	margin:0 0 0 0;
+	width:100px;
+	height:100px;
+	border:1px solid #000000;
+}
+
+.valli_image_6 input{
+	margin:0 0 0 0;
+	float:left;
+	width:100px;
+	height:50px;
+	border:none;
+	background:none;
+	text-align:right;
+
+}
+
+.valli_image_6 img{
+	margin:0 0 0 40px;
+	float:left;
+}
+
+.jafjajasd{
+	margin:0 0 0 0;
+	float:left;
+	width:100px;	
+}
+
+.jafjajasd select{
+	margin:4px;
+	float:left;
+}
+
+.jhfggfhfg{
+	margin:0 0 0 0;
+	float:left;
+	width:100px;
+}
+
+.jhfggfhfg select{
+	margin:4px;
+	float:left;
+}
+.valli_image_7{
+	margin:0 0 0 22px;
+	width:894px;
+}
+
+.valli_image_7 img{
+	margin:20px 0 0 0;
+	float:left;
+}
+
+.valli_image_8{
+	margin:0 0 0 22px;
+	width:894px;
+}
+
+.valli_image_8 textarea{
+	margin:5px 0 0 0;
+	float:left;
+	width:894px;
+	height:80px;
+	border:none;
+	background:none;
+}
+
+.valli_image_9{
+	margin:0 0 0 0;
+}
+
+.valli_image_9 input{
+	margin:10px 0 0 5px;
+	float:left;
+	width:330px;
+	border:none;
+	background:none;
+}
+
+.valli_image_9 img{
+	margin:10px 0 0 22px;
+	float:left;
+}
+
+
+.valli_image_10{
+	margin:0 0 0 0;
+}
+
+.valli_image_10 img{
+	margin:10px 0 0 0;
+	float:left;
+}
+
+.valli_image_10 input{
+	margin:10px 0 0 5px;
+	float:left;
+	width:370px;
+	border:none;
+	background:none;
+}
+
+.valli_image_11{
+	margin:0 0 0 0;
+	line-height:40px;
+}
+
+.valli_image_11 img{
+	margin:10px 0 0 0;
+}
+
+.valli_image_12{
+	margin:0 0 0 22px;
+	line-height:40px;
+	width:894px;
+	border-bottom:2px solid #f47a25;
+}
+
+.valli_image_12 img{
+	margin:10px 0 10px 0;
+	float:left;
+}
+
+.valli_image_12 select{
+	margin:10px 0 0 5px;
+	float:left;
+	width:300px;
+	border:none;
+	background:none;
+}
+
+.valli_image_13{
+	margin:0 0 0 22px;
+	width:894px;
+}
+
+.valli_image_13 img{
+	margin:10px 20px 0 0;
+	float:left;
+}
+
+.valli_image_13 select{
+	margin:10px 0 10px 5px;
+	float:left;
+	width:300px;
+	border:none;
+	background:none;
+}
+
+.valli_image_13 h1{
+	margin:10px 0 0 10px;
+	float:left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	font-weight:bold;
+}
+
+.valli_image_14{
+	margin:0 0 0 0;
+/*	border-top:2px solid #f47a25;*/
+}
+
+.valli_image_14 select{
+	margin:10px 0 10px 5px;
+	float:left;
+	width:300px;
+	border:none;
+	background:none;
+}
+
+.valli_image_14 img{
+	margin:10px 0 0 0;
+	float:left;
+}
+
+.valli_image_15{
+	margin:0 0 0 22px;
+	width:894px;
+	border-top:2px solid #f47a25;
+}
+
+.valli_image_15 img{
+	margin:10px 0 0 0;
+	float:left;
+}
+
+.valli_image_18{
+	margin:0 0 0 22px;
+	width:894px;
+}
+
+.valli_image_18 textarea{
+	margin:5px 0 10px 0;
+	float:left;
+	width:894px;
+	border:none;
+	background:none;
+}
+
+.valli_img_16{
+	margin:0 0 0 22px;
+	border-top:2px solid #f47a25;
+	width:894px;
+}
+
+.valli_img_16 img{
+	margin:5px 0 0 0;
+	float:left;
+}
+
+.valli_img_16 textarea{
+	margin:5px 0 0 5px;
+	float:left;
+	width:360px;
+	border:none;
+	background:none;
+}
+
+.valli_image_17{
+	margin:0 0 0 0;
+}
+
+.valli_image_17 img{
+	margin:40px 0 10px 0;
+	float:left;
+}
+
+.valli_image_17 input{
+	margin:40px 0 0 5px;
+	float:left;
+	width:300px;
+	border:none;
+	background:none;
+}
+
+.valli_image_19{
+	margin:0 0 0 22px;
+	width:894px;
+	border-top:2px solid #f47a25;
+}
+
+.valli_image_19 img{
+	margin:10px 10px 0 0;
+	float:left;
+}
+
+.valli_image_19 select{
+	margin:10px 0 10px 0;
+	float:left;
+	border:none;
+	background:none;
+}
+
+.valli_image_13_1{
+	margin:5px 50px 10px 0;
+	float:left;
+	width:25px;
+	height:25px;
+	border:2px solid #f47a25;
+}
+
+.valli_image_13_1 input{
+	margin:0 0 0 0;
+	float:left;
+	border:none;
+	background:none;
+}
+
+.valli_image_13_1_2{
+	margin:5px 180px 10px 0;
+	float:left;
+	width:25px;
+	height:25px;
+	border:2px solid #f47a25;
+}
+
+.valli_image_13_1_2 input{
+	margin:0 0 0 0;
+	float:left;
+	border:none;
+	background:none;
+}
+
+
+.valli_image_20{
+	margin:0 0 0 0;
+	border-top:2px solid #f47a25;
+}
+
+.valli_image_20 img{
+	margin:10px 10px 0 0;
+	float:left;
+}
+
+.valli_image_21{
+	margin:0 0 0 22px;
+	border-top:2px solid #f47a25;
+	width:894px;
+}
+
+.valli_image_21 img{
+	margin:10px 0 0 0;
+} 
+
+.valli_image_30{
+	margin:0 5px 0 0;
+	width:20px;
+}
+
+.valli_image_30 select{
+	margin:5px 0 0 0;
+	float:left;
+	border:none;
+	background:none;
+}
+
+.valli_image_22{
+	margin:0 0 0 22px;
+	width:894px;
+	border-top:2px solid #f47a25;
+}
+
+.valli_image_31{
+	margin:0 0 0 0;
+	width:20px;
+}
+
+.valli_image_31 select{
+	margin:5px 0 0 10px;
+	float:left;
+	border:none;
+	background:none;
+}
+
+.valli_image_22 img{
+	margin:10px 0 20px 0;
+	float:left;
+}
+
+.valli_image_22 select{
+	margin:10px 0 20px 5px;
+	float:left;
+	width:300px;
+	border:none;
+	background:none;
+}
+
+.last_div_nas{
+	margin:0 0 0 16px;
+	float:left;
+	width:910px;
+}
+.last_div_nas td{
+	font-size:13px;
+
+}
+
+.valli_image_32{
+	margin:0 0 0 0;
+	width:20px;
+}
+
+.valli_image_32 img{
+	margin:3px 0 0 10px;
+	float:left;
+}
+
+.valli_image_33{
+	margin:0 0 0 0;
+}
+
+.valli_image_33 select{
+	margin:5px 0 0 5px;
+	float:left;
+	border:none;
+	background:none;
+}
+
+.valli_image_33 img{
+	margin:5px 0 0 5px;
+	float:left;
+}
+
+
+/*.valli_image_6 span{
+	margin:4px;
+	float:left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:18px;
+	font-weight:bold;
+}*/
+
+.fdfvadadnjabdviabsdha{
+	margin:0 0 0 0;
+	float:left;
+	width:100px;
+}
+
+.valli_image_34{
+	margin:0 0 0 0;
+	width:20px;
+}
+
+.valli_image_34 img{
+	margin:0 0 0 5px;
+	float:left;
+}
+
+.valli_image_40{
+	margin:0 0 0 0;
+}
+
+.valli_image_40 select{
+	margin:0 0 0 0;
+	float:left;
+}
+
+.ldkdksfskf{
+	margin:0 0 0 0;
+	float:left;
+	width:100px;
+}
+
+.ldkdksfskf img{
+	margin:4px;
+	float:left;
+}
+
+.kkkkdjdjd{
+	margin:0 0 0 0;
+	float:left;
+	width:120px;
+}
+
+.kkkkdjdjd select{
+	margin:0 0 0 52px;
+	float:left;
+}
+
+.ghghghg{
+	margin:0 0 0 0;
+	float:left;
+}
+
+.ghghghg img{
+	margin:4px 0 0 98px;
+	float:left;
+}
+
+.valli_image_close{
+	margin:0 0 0 0;
+	width:20px;
+}
+
+.valli_image_close select{
+	margin:0 5px 0 0;
+	float:left;
+	border:none;
+	background:none;
+}
+
+.valli_image_close img{
+	margin:0 5px 0 0;
+}

@@ -1,0 +1,2 @@
+[04-May-2013 12:42:02] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/haituxvu/public_html/pitaxi/admin/product_view.php on line 244
+[04-May-2013 12:42:02] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/haituxvu/public_html/pitaxi/admin/product_view.php on line 253

@@ -1,0 +1,1412 @@
+body{
+margin:0 0 0 0;
+}
+.main_div{
+	margin:0 0 0 0;
+	float:left;
+	background:url(../files/Vallikodi_12thDec.png) no-repeat;
+	width:1228px;
+	height:1735px;
+	}
+
+.over_all{
+	margin:15px 0 0 22px;
+	float:left;
+	width:1183px;
+	height:1703px;
+}
+.region{
+	margin:379px 0 0 0px;
+	float:left;
+	width:1182px;
+	height:68px;
+	}	
+.top{
+	margin:0px 0 0 0px;
+	float:left;
+	width:284px;
+	height:68px;
+}
+	
+.top select{
+    margin:30px 0 0 40px;
+	width:210px;
+	height:35px;
+}	
+.top_2{
+	margin:0px 0 0 4px;
+	float:left;
+	width:226px;
+	height:68px;
+}
+.top_2 select{
+	margin:30px 0 0 10px;
+	float:left;
+	width:200px;
+	height:35px
+}
+
+.top_3{
+	margin:0 0 0 2px;
+	float:left;
+	width:76px;
+	height:67px;
+}
+			
+.top_3 input{
+	margin:34px 0 0 22px;
+	float:left;
+	width:25px;
+	height:18px;
+	border:none;
+	
+}
+
+.top_3 .un_checked{
+	float:left;
+	margin:34px 0 0 23px; 
+	width:26px;
+	height:19px;
+	border:none;
+	cursor:pointer;
+	outline: none;
+	background:none;
+}
+	
+.top_3 .checked{
+	float:left;
+	margin:34px 0 0 23px; 
+	width:25px;
+	height:18px;
+	border:none;
+	cursor:pointer;
+	outline:none;
+	background:url(../files/checked_top3_4.png);
+}
+	
+.top_4{ 
+	 margin:0 0 0 2px;
+	 float:left;
+	 width:76px;
+	 height:67px;
+}
+
+
+.top_4 .un_checked{
+	float:left;
+	margin:34px 0 0 23px; 
+	width:26px;
+	height:19px;
+	border:none;
+	cursor:pointer;
+	outline: none;
+	background:none;	
+}
+	
+.top_4 .checked{
+	float:left;
+	margin:34px 0 0 23px; 
+	width:25px;
+	height:18px;
+	border:none;
+	cursor:pointer;
+	outline: none;
+	background:url(../files/checked_top3_4.png);
+}
+
+.new{
+	 margin:0 0 0 3px;
+	 float:left;
+	 width:294px;
+	 height:67px;
+}
+.registrion_date{
+     margin:0 0 0 5px;
+	 float:left;
+	 width:205px;
+	 height:67px;
+}
+#before_register{
+     margin:20px 0 0 20px;
+	 float:left;
+
+}	 	
+#reg_no{
+	margin:5px 0 0 100px;
+	float:left;
+	width:188px;
+	height:20px;
+}
+#kopu_no{
+	margin:8px 0px 0 120px;
+	float:left;
+	width:168px;
+	height:20px;
+}
+
+.top_5{
+	margin:5px 0 0 0;
+	float:left;
+	width:1180px;
+	height:36px;
+}
+.half{ 
+	margin:0 0 0 0;
+	float:left;
+	width:990px;
+	height:36px;
+	
+}	
+.reg_date{
+	margin:0 0 0 0;
+	float:left;
+	width:325px;
+	height:37px;
+}		
+		
+#user_name{
+	margin:0 0 0 240px;
+	float:left;
+	width:420px;
+	height:28px;
+}	
+#dob{
+	margin:0 0 0 133px;
+	float:left;
+	width:185px;
+	height:28px;
+}
+#age{
+	margin:3px 0 0 70px;
+	float:left;
+	width:110px;
+	height:28px;
+}
+.education{
+	margin:5px 0 0 0;
+	float:left;
+	width:1180px;
+	height:73px;
+		}
+#edu_qua{
+   margin:0 0 0 140px;
+   float:left;
+   width:370px;
+   height:64px;
+    }
+#job{
+   margin:2px 0 0 73px;
+   float:left;
+   width:269px;
+   height:62px;
+   }  
+#income{
+   margin:2px 0 0 130px;
+   float:left;
+   width:183px;
+   height:62px;
+}
+.marriage_status{
+   margin:2px 0 0 0px;
+   float:left;
+   width:1180px;
+   height:32px;
+   background:;
+ }
+.stage{
+	margin:0 0 0 0;
+	float:left;
+	width:810px;
+	height:32px;
+	background:;
+}	 
+#marriage{
+   margin:5px 0 0 160px;
+   float:left;
+   width:360px;
+   height:25px;
+}  
+#color{
+   margin:0px 0 0 120px;
+   float:left;
+   width:218px;
+   height:25px;
+}    
+#height{
+   margin:0px 0 0 88px;
+   float:left;
+   width:px;
+   height:30px;
+ }
+ .we{
+  margin:0 0 0 10px;
+  float:left;
+  width:160px;
+  height:30px;
+  }  
+#weight{
+   margin:0px 0 0 65px;
+   width:120px;
+   height:30px;
+   float:left;
+} 
+
+.birth_detail{
+   margin:5px 0 0 3px;
+   float:left;
+   width:1180px;
+   height:30px;
+}
+#detail{
+margin:0 0 0 414px;
+float:left;
+width:20px;
+height:30px;
+}   
+
+#job_location{
+   margin:0px 0 0 465px;
+   float:left;
+   height:32px;
+}
+.astrology{
+	margin:5px 0 0 0px;
+	float:left;
+	width:1180px;
+	height:53px;
+}             
+#nakshathra{
+	margin:15px 0 0 120px;
+	float:left;
+	height:30px;
+} 		
+.astrology_2{
+	margin:0 0 0 0;
+}	
+#zodiac_sign{
+	margin:15px 0 0 80px;
+	float:left;
+	height:30px
+}
+.astrology_3{
+	margin:0 0 0 0;
+	float:left;
+}
+#luknam{
+	margin:15px 0 0 110px;
+	float:left;
+	height:30px
+}
+.dosam{
+	margin:0 0 0 0;
+	float:left;
+}
+#dosam_1{
+	 height:30px;
+	 float:left;
+	 margin:15px 0 0 210px;
+}
+.family_detail{
+	 margin:7px 0 0 5px;
+	 float:left;
+	 width:1180px;
+	 height:125px;
+}
+.food_activity{
+	 margin:0 0 0 0;
+	 float:left;
+}
+#food{
+	 margin:32px 0 0 40px;
+	 float:left;
+	 height:30px;
+}	
+#father_name{
+	margin:0 0 0 200px;
+	float:left;
+	width:335px;
+	height:30px;
+}	  	 
+#mother_name{
+	margin:0 0 0 170px;
+	float:left;
+	width:320px;
+	height:30px;
+}
+#fpre_job{
+	margin:18px 0 0 240px;
+	float:left;
+	width:294px;
+	height:50px;
+}
+#mpre{
+	margin:18px 0 0 210px;
+	float:left;
+	width:282px;
+	height:50px;
+}
+.property{
+	margin:6px 0 0 4px;
+	float:left;
+	width:1180px;
+	height:150px;
+}
+#land_pro{
+	margin:30px 0 0 10px;
+	float:left;
+	width:590px;
+	height:107px
+}
+.family_num{
+	margin:33px 0 0 188px;
+	float:left;
+	width:374px;
+	height:106px;
+}
+.el_son{
+	margin:0 0 0 0;
+	float:left;
+	width:93px;
+	height:23px;
+	border:none;
+}
+.married{
+	 margin:0 0 0 12px;
+	 float:left;
+	 width:114px;
+	 height:23px;
+	 border:none;
+}
+.unmarried{
+	 margin:0 0 0 17px;
+	 float:left;
+	 width:138px;
+	 height:28px;
+	 border:none;
+}				  			 	 			 
+.count{
+	 margin:7px 0 0 0;
+	float:left;
+	width:93px;
+	height:13px;
+	border:none;
+}
+.marr{
+	 margin:5px 0 0 12px;
+	 float:left;
+	 width:124px;
+	 height:15px;
+	 border:none;
+}
+.unmarr{
+	 margin:6px 0 0 9px;
+	 float:left;
+	 width:125px;
+	 height:13px;
+	 border:none;
+	
+}	 
+.third{
+    margin:7px 0 0 0;
+	float:left;
+	width:375px;
+	height:24px;
+}				  			 	 			 
+.cou{
+     margin:0 0 0 0;
+	float:left;
+	width:95px;
+	height:20px;
+	border:none;
+}
+.double{
+	 margin:0 0 0 10px;
+	 float:left;
+	 width:120px;
+	 height:18px;
+	 border:none;
+}
+.single{
+    margin:0 0 0 17px;
+	float:left;
+	width:130px;
+	height:18px;
+	border:none;
+} 
+.last{
+    margin:0px 0 0 0;
+	float:left;
+	width:375px;
+	height:24px;
+}	 
+	 
+.num{
+	margin:3px 0 0 0;
+	float:left;
+	width:95px;
+	height:15px;
+	border:none;
+}	
+.two{
+	 margin:3px 0 0 9px;
+	 float:left;
+	 width:120px;
+	 height:15px;
+	 border:none;
+}
+.one{
+	margin:3px 0 0 10px;
+	float:left;
+	width:135px;
+	height:15px;
+	border:none;
+}
+.full_area{
+  margin:0 0 0 0x;
+  float:left;
+  width:558px;
+  height:270px;
+  }
+
+.box{
+	margin:6px 0 0 2px;
+	float:left;
+	width:558px;
+	height:216px;
+}
+.box_1{
+	margin:4px 0 0 9px;
+	float:left;
+	width:256px;
+	height:213px;
+
+}
+.t_f{
+   margin:0 0 0 0;
+   float:left;
+   width:257px;
+   height:47px;
+
+}
+.la,.ra,.san,.k,.s,.se,.ku,.su,.sur,.b{
+	float:left;
+	margin:0 0 0 2px;
+	width:15px;
+	height:15px;
+}
+
+.one_1{
+   margin:0 0 0 0;
+   float:left;
+   height:45px;
+   width:55px;
+   border:none;
+
+}   	
+.two_2{
+	margin:0 0 0 12px;
+	float:left;
+	height:45px;
+	width:55px;
+	border:none;
+
+}
+.three_3{
+	 margin:0 0 0 15px;
+	 float:left;
+	 width:55px;
+	 height:44px;
+	 border:none;
+
+}
+.four_4{
+	 margin:2px 0 0 148px;
+	 float:left;
+	 width:53px;
+	 height:44px;
+	 border:none;
+		 	 
+}
+.t_s{
+	 margin:3px 0 0 0;
+	 float:left;
+	 width:256px;
+	 height:47px;
+}
+.twelve_12 {
+	 margin:0 0 0 0;
+	 float:left;
+	 width:55px;
+	 height:44px;
+	 border:none;
+}
+.five_5{
+	 margin:2px 0 0 148px;
+	 float:left;
+	 width:53px;
+	 height:44px;
+	 border:none;
+	 }
+.t_t{
+	margin:3px 0 0 0;
+	float:left;
+	width:256px;
+	height:57px;
+}
+.eleven_11{
+	margin:2px 0 0 0;
+	float:left;
+	width:53px;
+	height:55px;
+	border:none;
+	}
+.six_6{
+	margin:3px 0 0 150px;
+	float:left;
+	width:52px;
+	height:55px;
+	border:none;
+}
+.t_4{
+   margin:5px 0 0 0;
+   float:left;
+   width:256px;
+   height:47px;
+}			
+.ten_10{
+  margin:3px 0 0 0;
+  float:left;
+  width:55px;
+  height:43px;
+  border:none;
+}	
+.nine_9{
+  margin:3px 0 0 7px;
+  float:left;
+  width:64px;
+  height:44px;
+  border:none;
+ }  	 
+.eight_8{
+  margin:3px 0 0 5px;
+  float:left;
+  width:65px;
+  height:43px;
+  border:none;
+  } 
+.seven_7{
+  margin:3px 0 0 7px;
+  float:left;
+  width:53px;
+  height:44px;
+  border:none;
+}
+.box1_bottom{
+  margin:8px 0 0 0;
+  float:left;
+  width:260px;
+  height:40px;
+}
+#edge_1{
+  margin:5px 0 0 5px;
+  float:left;
+  height:30px;
+}
+#edge_2{
+  margin:5px 0 0 5px;
+  float:left;
+  height:30px;
+}
+#last_1{
+  margin:5px 0 0 5px;
+  float:left;
+  width:40px;
+  height:30px;
+ 
+}
+
+
+.box_2{
+  margin:3px 0 0 34px;
+  float:left;
+  width:255px;
+  height:212px;
+}
+.top1{ 
+   margin:0 0 0 0;
+   float:left;
+   width:255px;
+   height:47px;
+ }    
+.a_one{
+  margin:0 0 0 0;
+  float:left;
+  width:53px;
+  height:43px;
+  border:none;
+}
+.b_two{
+    margin:0 0 0 7px;
+	float:left;
+	height:41px;
+	width:63px;
+	border:none;
+}
+.c_three{
+	 margin:0 0 0 7px;
+	 float:left;
+	 width:64px;
+	 height:41px;
+	 border:none;
+}
+.d_four{	 
+	 margin:0 0 0 9px;
+	 float:left;
+	 width:50px;
+	 height:41px;
+	 border:none;
+}
+.top2{
+	 margin:3px 0 0 0;
+	 float:left;
+	 width:256px;
+	 height:47px;
+	 border:none;
+}	   
+.e_twelve{	 	 	
+	 margin:1px 0 0 0;
+	 float:left;
+	 width:53px;
+	 height:43px;
+	 border:none;
+}
+.f_five{
+	 margin:1px 0 0 150px;
+	 float:left;
+	 width:50px;
+	 height:43px;
+	 border:none;
+}	 
+.top3{
+	 margin:5px 0 0 0;
+	float:left;
+	width:255px;
+	height:58px;
+ }
+.g_eleven {
+	margin:0 0 0 0;
+	float:left;
+	width:53px;
+	height:53px;
+	border:none;
+}
+.h_six{
+	margin:1px 0 0 150px;
+	float:left;
+	width:49px;
+	height:51px;
+	border:none;
+}
+.top4{
+   margin:5px 0 0 0;
+   float:left;
+   width:256px;
+   height:47px;
+}	
+	
+.i_ten{
+  margin:0 0 0 0;
+  float:left;
+  width:53px;
+  height:42px;
+  border:none;
+ }	 	 	 
+.j_nine{
+  margin:0 0 0 7px;
+  float:left;
+  width:64px;
+  height:42px;
+  border:none;
+ }
+.k_eight { 
+  margin:0 0 0 7px;
+  float:left;
+  width:66px;
+  height:42px;
+  border:none;
+} 
+.l_seven{
+  margin:0 0 0 8px;
+  float:left;
+  width:50px;
+  height:42px;
+  border:none;		
+} 
+.box2_bottom{
+  margin:5px 0 0 0;
+  float:left;
+  width:260px;
+  height:40px;
+ 
+ }
+ #edge_3{
+  margin:5px 0 0 0;
+  float:left;
+  height:30px;
+}
+ #edge_4{
+  margin:5px 0 0 20px;
+  float:left;
+  height:30px;
+}
+#last_2{
+  margin:10px 0 0 20px;
+  float:left;
+}
+
+.contact{
+  margin:3px 0 0 8px;
+  float:left;
+  width:610px;
+  height:265px;
+ 
+ } 
+.gaurdian{
+  margin:27px 0 0 250px;
+  float:left;
+  width:355px;
+  height:30px;
+}   
+#address{
+ margin:45px 0 0 5px;
+ float:left;
+ width:603px;
+ height:52px;
+ }
+ .telephone{
+ margin:6px 0 0 122px;
+ float:left;
+ width:479px;
+ height:22px;
+}
+.mobile{
+ margin:3px 0 0 100px;
+ float:left;
+ width:499px;
+ height:20px;
+}
+.email{
+margin:3px 0 0 120px;
+float:left;
+width:480px;
+height:23px;
+}
+.expect_varan{
+  margin:0px 0 0 0;
+  float:left;
+  width:1180px;
+  height:63px;
+}  
+#direction_status{
+  margin:26px 0 0 140px;
+  float:left;
+  width:620px;
+  height:25px;
+}
+#marr_status{
+	margin:26px 0 0 170px;
+	float:left;
+	height:30px;
+}
+.limit{
+   margin:4px 0 0 0;
+   float:left;
+   width:1178px;
+   height:44px;
+  }   
+.size{
+   margin:0 0 0 0;
+    float:left;
+	width:600px;
+	height:44px;
+}   
+ #age_limit{
+   margin:12px 0 0 78px;
+   float:left;
+   height:20px;
+}
+#age_second{
+  margin:13px 0 0 58px;
+  float:left;
+  height:20px;
+}   
+#uyaram{
+  margin:13px 0 0 140px;
+  float:left;
+  height:20px
+}
+#edu_quality{
+  margin:5px 0 0 5px;
+  float:left;
+  width:569px;
+  height:30px;
+} 
+.next{
+  margin:5px 0 0 0;
+  float:left;
+  width:1180px;
+  height:41px;
+}
+ .next1{
+	margin:2px 0 0 0;
+	float:left;
+	width:723px;
+	height:41px;
+} 
+#job_process{
+  margin:5px 0 0 70px;
+  float:left;
+  width:350px;
+  height:20px;
+ }     
+#month_salary{
+  width:120px;
+  height:20px;
+  margin:6px 0 0 170px;
+}
+.next2{
+   margin:0 0 0 5px;
+   float:left;
+   width:450px;
+   height:40px;
+} 
+#hand{
+margin:5px 0 0 360px;
+float:left;
+height:25px; 
+}  
+.bottom{
+  margin:4px 0 0 0;
+  float:left;
+  width:1180px;
+  height:35px;
+  }
+.star{
+  margin:2px 0 0 0;
+  float:left;
+  width:622px;
+  height:34px;
+  }  
+#nakshathras{
+  margin:5px 0 0 150px;
+  float:left;
+  height:25px;
+} 
+.dosam2{
+  margin:0 0 0 0;
+  float:left;
+  width:555px;
+  height:34px;
+} 
+#dosam_2{
+  margin:10px 0 0 220px;
+  float:left;
+  width:30px;
+  height:24px;
+}
+.bottom_area{
+   margin:0 0 0 0;
+   float:left;
+   width:1180px;
+   height:260px;
+ 
+ }
+.bottom_area .checked{
+   	border:none;
+	width:23px;
+	height:17px;
+	cursor:pointer;
+	outline: none;
+	background:url(../files/valli_checked_new.png);
+	}
+.bottom_area .un_checked{
+	border:none;
+	cursor:pointer;
+	outline:none;
+	width:23px;
+	height:17px;
+	background:none;	
+}
+.bottom_part_1{
+  margin:8px 0 0 0;
+  float:left;
+  width:40px;
+  height:255px;
+ 
+}
+.aswini{
+  margin:0 0 0 9px;
+  float:left;
+}
+.aswini input{
+  margin:1px 0 0 0;
+  float:left;
+  width:23px;
+  height:18px;
+  border:none;
+  cursor:pointer;
+  }
+.barani{
+   margin:0 0 0 0;
+   float:left;
+}
+.barani input{
+   margin:20px 0 0 9px;
+   float:left;
+   width:23px;
+   height:18px;
+   border:none;
+   cursor:pointer;
+}
+.karthikai_1am{
+    margin:20px 0 0 9px;
+	float:left;
+
+}
+.karthikai_1am input{
+    margin:0 0 0 0;
+	float:left;
+	width:23px;
+	height:18px;
+	border:none;
+	cursor:pointer;
+}
+.karthikai_2am{
+     margin:0 0 0 0;
+	float:left;
+}	
+.karthikai_2am input{
+    margin:17px 0 0 10px;
+	float:left;
+	width:23px;
+	height:18px;
+	border:none;
+    cursor:pointer;	
+}
+.rowhini{
+   margin:0 0 0 0;
+   float:left;
+}
+.rowhini input{
+    margin:24px 0 0 9px;
+	float:left;
+	width:23px;
+	height:18px;
+	border:none;
+    cursor:pointer;	
+}
+.merugam_1{
+   margin:0 0 0 0;
+   float:left;
+}
+.merugam_1 input{
+    margin:20px 0 0 9px;
+	float:left;
+	width:23px;
+	height:18px;
+	border:none;
+    cursor:pointer;	
+}
+.merugam_3{
+    margin:0 0 0 0;
+   float:left;
+}
+.merugam_3 input{
+    margin:17px 0 0 9px;
+	float:left;
+	width:23px;
+	height:18px;
+	border:none;
+    cursor:pointer;
+		
+}
+
+.bottom_part_2{
+    margin:0 0 0 272px;
+	float:left;
+	width:40px;
+	height:255px;
+}  
+.thiruva{
+    margin:0 0 0 0;
+	float:left;
+}
+.thiruva input{
+     margin:9px 0 0 9px;
+	 float:left; 
+	 width:23px;
+	 height:18px;
+	 border:none;
+    cursor:pointer;
+}
+.poranam_1{
+    margin:0 0 0 0;
+	float:left;
+
+}
+.poranam_1 input{
+    margin:18px 0 0 9px;
+	float:left;
+	 width:23px;
+	 height:18px;
+	  border:none;
+   cursor:pointer;
+
+}
+.poranam_4{
+    margin:0 0 0 0;
+	float:left;
+
+}
+.poranam_4 input{
+    margin:20px 0 0 9px;
+	float:left;
+	 width:23px;
+	 height:18px;
+	  border:none;
+   cursor:pointer;
+}
+.posam{
+    margin:0 0 0 0;
+	float:left;
+
+}
+.posam input{
+      margin:18px 0 0 9px;
+	  float:left;
+	  width:23px;
+	  height:18px;
+	  border:none;
+     cursor:pointer;
+}
+.oillam{
+      margin:0 0 0 0;
+	  float:left;
+}
+.oillam input{
+      margin:22px 0 0 9px;
+	  float:left;
+	  width:23px;
+	  height:18px;
+	  border:none;
+     cursor:pointer;
+}
+.magam{
+     margin:0 0 0 0;
+	 float:left;
+}
+.magam input{
+      margin:21px 0 0 9px;
+	  float:left;
+	  width:23px;
+	  height:18px;
+	  border:none;
+     cursor:pointer;
+}
+.poram{
+      margin:0 0 0 0;
+	  float:left;
+}
+.poram input{
+      margin:16px 0 0 9px;
+	  float:left;
+	  width:23px;
+	  height:18px;
+	  border:none;
+     cursor:pointer;
+}
+.bottom_part_3{
+     margin:0 0 0 160px;
+	 float:left;
+	 width:40px;
+	 height:255px;
+}	 
+	 	
+.utiram_1{
+    margin:10px 0 0 10px;
+	float:left;
+}
+.utiram_1 input{
+     margin:0 0 0 0;
+	 float:left;
+	 width:23px;
+	 height:18px;
+	  border:none;
+     cursor:pointer;
+}
+.utiram_2{
+    margin:19px 0 0 10px;
+	float:left;
+}
+.utiram_2 input{
+     margin:0 0 0 0;
+	 float:left;
+	 width:23px;
+	 height:18px;
+	  border:none;
+     cursor:pointer;
+}
+.astam{
+       margin:19px 0 0 10px;
+	float:left;
+}
+.astam input{
+     margin:0 0 0 0 ;
+	 float:left;
+	 width:23px;
+	 height:18px;
+	  border:none;
+     cursor:pointer;
+}
+.chetrai_1{
+     margin:17px 0 0 10px;
+	float:left;
+}
+.chetrai_1 input{
+     margin:0 0 0 0 ;
+	 float:left;
+	 width:23px;
+	 height:18px;
+	  border:none;
+     cursor:pointer;
+}
+.chetrai_2{
+     margin:0 0 0 0;
+	float:left;
+}
+.chetrai_2 input{
+     margin:22px 0 0 10px;
+	 float:left;
+	 width:23px;
+	 height:18px;
+	  border:none;
+     cursor:pointer;
+}
+
+.swathi{
+     margin:0 0 0 0;
+	float:left;
+}
+.swathi input{
+     margin:18px 0 0 10px;
+	 float:left;
+	 width:23px;
+	 height:18px;
+	  border:none;
+     cursor:pointer;
+}
+.vesagam{
+     margin:0 0 0 0;
+	float:left;
+}
+.vesagam input{
+     margin:15px 0 0 10px;
+	 float:left;
+	 width:23px;
+	 height:18px;
+	 border:none;
+     cursor:pointer;
+	}
+.bottom_part_4{
+     margin:0 0 0 190px;
+	 float:left;
+	 width:40px;
+	 height:255px;
+	}
+.vesagam_2{
+     margin:0 0 0 0;
+	float:left;
+}
+.vesagam_2 input{
+     margin:10px 0 0 10px;
+	 float:left;
+	 width:23px;
+	 height:18px;
+	 border:none;
+	 color:#FFFFFF;
+     cursor:pointer;
+}
+.anusam{
+   margin:0 0 0 0;
+   float:left;
+}
+.anuseam input{
+     margin:19px 0 0 10px;
+	 float:left;
+	 width:23px;
+	 height:18px;
+	 border:none;
+	 color:#FFFFFF;
+     cursor:pointer;
+}
+.kottai{
+   margin:0 0 0 0;
+   float:left;
+}
+.kottai input{
+     margin:19px 0 0 10px;
+	 float:left;
+	 width:23px;
+	 height:18px;
+	 border:none;
+	 color:#FFFFFF;
+     cursor:pointer;
+}
+.molam{
+ margin:0 0 0 0;
+   float:left;
+}
+.molam input{
+     margin:17px 0 0 10px;
+	 float:left;
+	 width:23px;
+	 height:18px;
+	 border:none;
+	 color:#FFFFFF;
+     cursor:pointer;
+}
+.poradam{
+   margin:0 0 0 0;
+   float:left;
+}
+.poradam input{
+     margin:21px 0 0 10px;
+	 float:left;
+	 width:23px;
+	 height:18px;
+	 border:none;
+	 color:#FFFFFF;
+     cursor:pointer;
+}
+.uteradam{
+    margin:0 0 0 0;
+   float:left;
+}
+.uteradam input{
+     margin:20px 0 0 10px;
+	 float:left;
+	 width:23px;
+	 height:18px;
+	 border:none;
+	 color:#FFFFFF;
+     cursor:pointer;
+}
+.uteradam_2{
+   margin:0 0 0 0;
+   float:left;
+}
+.uteradam_2 input{
+     margin:15px 0 0 10px;
+	 float:left;
+	 width:23px;
+	 height:18px;
+	 border:none;
+	 color:#FFFFFF;
+     cursor:pointer;
+}
+.bottom_part_5{
+     margin:0 0 0 210px;
+	 float:left;
+	 width:40px;
+	 height:255px;
+}
+.thiruvonam{
+   margin:0 0 0 0;
+   float:left;
+}
+.thiruvonam input{
+     margin:10px 0 0 8px;
+	 float:left;
+	 width:23px;
+	 height:18px;
+	 border:none;
+	 color:#FFFFFF;
+     cursor:pointer;
+}
+.avitom{
+   margin:0 0 0 0;
+   float:left;
+}
+.avitom_1 input{
+     margin:20px 0 0 8px;
+	 float:left;
+	 width:23px;
+	 height:18px;
+	 border:none;
+	 color:#FFFFFF;
+     cursor:pointer;
+}
+.avitom{
+   margin:0 0 0 0;
+   float:left;
+}
+.avitom_3 input{
+     margin:19px 0 0 8px;
+	 float:left;
+	 width:23px;
+	 height:18px;
+	 border:none;
+	 color:#FFFFFF;
+     cursor:pointer;
+}
+.porat{
+    margin:0 0 0 0;
+   float:left;
+}
+.porat input{
+     margin:18px 0 0 8px;
+	 float:left;
+	 width:23px;
+	 height:18px;
+	 border:none;
+	 color:#FFFFFF;
+     cursor:pointer;
+}
+.porat_4{
+    margin:0 0 0 0;
+   float:left;
+}
+.porat_4 input{
+     margin:21px 0 0 8px;
+	 float:left;
+	 width:23px;
+	 height:18px;
+	 border:none;
+	 color:#FFFFFF;
+     cursor:pointer;
+}
+.uteradi{
+    margin:0 0 0 0;
+   float:left;
+}
+.uteradi input{
+     margin:18px 0 0 8px;
+	 float:left;
+	 width:23px;
+	 height:18px;
+	 border:none;
+	 color:#FFFFFF;
+     cursor:pointer;
+	 
+}
+.last{
+   margin:0 0 0 0;
+   float:left;
+}
+#bott{
+  margin:10px 0 0 5px;
+  float:left;
+  width:70px;
+  height:30px;
+}
+
